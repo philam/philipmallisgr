@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Φίλιππος Μάλλης</title>
+    <link>https://philipmallis.gr/posts/</link>
+    <description>Recent content in Posts on Φίλιππος Μάλλης</description>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>el</language>
+    <copyright>Philip Mallis</copyright>
+    <lastBuildDate>Thu, 31 Oct 2024 09:08:55 +1100</lastBuildDate>
+    <atom:link href="https://philipmallis.gr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Γεια σας!</title>
+      <link>https://philipmallis.gr/posts/hello-world/</link>
+      <pubDate>Thu, 31 Oct 2024 09:08:55 +1100</pubDate>
+      <guid>https://philipmallis.gr/posts/hello-world/</guid>
+      <description>Αυτή είναι η πρώτη ανάρτηση.</description>
+    </item>
+  </channel>
+</rss>

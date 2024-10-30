@@ -1,0 +1,14 @@
+baseURL = 'https://philipmallis.gr/'
+languageCode = 'el'
+title = 'Φίλιππος Μάλλης'
+theme = 'PaperMod'
+copyright = '[Philip Mallis](https://philipmallis.com)'
+
+author = 'Me'
+DateFormat = '2 January 2006'
+disableThemeToggle = 'false'
+
+ShowReadingTime = 'true'
+ShowPostNavLinks = 'true'
+ShowBreadCrumbs = 'true'
+			

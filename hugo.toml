@@ -8,7 +8,4 @@ author = 'Me'
 DateFormat = '2 January 2006'
 disableThemeToggle = 'false'
 
-ShowReadingTime = 'true'
-ShowPostNavLinks = 'true'
-ShowBreadCrumbs = 'true'
-			
+	

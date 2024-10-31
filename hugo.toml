@@ -4,24 +4,43 @@ title = 'Φίλιππος Μάλλης'
 theme = 'PaperMod'
 copyright = '[Philip Mallis](https://philipmallis.com)'
 
-author = 'Me'
-DateFormat = '2 January 2006'
-disableThemeToggle = 'false'
-
-[homeInfoParams]
-Title = "Hi there"
-Content = "Welcome"
-
-[socialIcons]
-name = "github"
-url = "https://github.com/philam"
-
 [minify]
 disableXML = true
 minifyOutput = true
 
 [params]
 env = "production"
+
+author = "Me"
+DateFormat = "2 January 2006"
+disableThemeToggle = "false"
+
 ShowReadingTime = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
+
+[[homeInfoParams]]
+Title = "Hi there"
+Content = "Welcome"
+
+[[socialIcons]]
+name = "github"
+url = "https://github.com/philam"
+
+[[menu.main]]
+identifier = "categories"
+name = "κατηγορίες"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "ετικέτες"
+url = "/etikekes/"
+weight = 20
+
+[[menu.main]]
+identifier = "website"
+name = "Ιστότοπος"
+url = "https://philipmallis.com"
+weight = 30

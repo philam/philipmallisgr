@@ -8,4 +8,20 @@ author = 'Me'
 DateFormat = '2 January 2006'
 disableThemeToggle = 'false'
 
-	
+[homeInfoParams]
+Title = "Hi there"
+Content = "Welcome"
+
+[socialIcons]
+name = "github"
+url = "https://github.com/philam"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true

@@ -19,13 +19,21 @@ ShowReadingTime = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 
-[[homeInfoParams]]
-Title = "Hi there"
-Content = "Welcome"
+[homeInfoParams]
+Title = "Hi there 👋"
+Content = "Welcome to my blog"
+
+[[socialIcons]]
+name = "x"
+url = "https://x.com/"
+
+[[socialIcons]]
+name = "stackoverflow"
+url = "https://stackoverflow.com"
 
 [[socialIcons]]
 name = "github"
-url = "https://github.com/philam"
+url = "https://github.com/"
 
 [[menu.main]]
 identifier = "categories"
@@ -36,11 +44,11 @@ weight = 10
 [[menu.main]]
 identifier = "tags"
 name = "ετικέτες"
-url = "/etikekes/"
+url = "/tags/"
 weight = 20
 
 [[menu.main]]
 identifier = "website"
-name = "Ιστότοπος"
+name = "ιστότοπος"
 url = "https://philipmallis.com"
 weight = 30

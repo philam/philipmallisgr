@@ -69,6 +69,8 @@ params:
       url: "https://flickr.com/philipmallis"
     - name: github
       url: "https://github.com/philam"
+    - name: rss
+      url: "./index.xml"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -88,15 +90,15 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: κατηγορίες
+    - identifier: categories
       name: κατηγορίες
       url: /categories/
       weight: 10
-    - identifier: ετικέτες
+    - identifier: tags
       name: ετικέτες
       url: /tags/
       weight: 20
-    - identifier: ιστοσελίδα
+    - identifier: website
       name: ιστοσελίδα
       url: https://philipmallis.com
       weight: 30
